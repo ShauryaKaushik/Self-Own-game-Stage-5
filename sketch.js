@@ -11,7 +11,7 @@ var obstacles;
 
 function preload(){
 
-runningMan = loadAnimation("images/Running man 1.png","images/Running man 2.png","images/Running man 3.png","images/Running man 4.png","images/Running man 5.png","images/Running man 6.png");
+runningMan = loadAnimation("/images/Running man 1.png","/images/Running man 2.png","/images/Running man 3.png","/images/Running man 4.png","/images/Running man 5.png","/images/Running man 6.png");
 backgroundImg = loadImage("images/background.png");
 
 
